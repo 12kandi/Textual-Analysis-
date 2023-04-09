@@ -16,3 +16,9 @@ The biggest pain point in this project was to understand the equation, but with 
 3. applies pre-processing techniques (e.g., remove stop-words, numbers, etc).
 4. loops and conditions 
 5. pandas 
+
+
+
+### Reference 
+Loughran, T., & McDonald, B. (2011). When is liability not a liability? Textual analysis, dictionaries, and 10-Ks. The Journal of Finance, 66(1), 35–65.
+
